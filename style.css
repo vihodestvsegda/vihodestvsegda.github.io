@@ -1,4 +1,4 @@
-html body{
+@media (min-width: 1500px) {html body{
 	background-color: #FEFEFE
 }
 
@@ -144,7 +144,8 @@ transform: translate(-50%, 0);
 	border-right-color:#DB8A00;
 	border-top-color:#E89200;
 }
-@media (max-width:1080px) {
+}
+@media (max-width:1200px) {
 		html body{
 	background-color: #FEFEFE
 }
