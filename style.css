@@ -144,14 +144,14 @@ transform: translate(-50%, 0);
 	border-right-color:#DB8A00;
 	border-top-color:#E89200;
 }
-@media (max-width:1300px) {
+@media (max-width:1080px) {
 		html body{
 	background-color: #FEFEFE
 }
 
 .text{
 	font-family: 'Play', sans-serif;
-	font-size: 60;
+	font-size: 40;
 }
 .button{
 	/*[ Position ]*/
